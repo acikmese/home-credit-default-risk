@@ -1,0 +1,713 @@
+feature,importance
+NAME_CONTRACT_TYPE,23.9
+FLAG_OWN_CAR,37.5
+FLAG_OWN_REALTY,1.2
+CNT_CHILDREN,1.9000000000000001
+AMT_INCOME_TOTAL,25.400000000000002
+AMT_CREDIT,112.20000000000002
+AMT_ANNUITY,183.1
+AMT_GOODS_PRICE,148.4
+REGION_POPULATION_RELATIVE,73.9
+DAYS_BIRTH,212.7
+DAYS_EMPLOYED,141.79999999999998
+DAYS_REGISTRATION,86.89999999999999
+DAYS_ID_PUBLISH,119.8
+FLAG_MOBIL,0.0
+FLAG_EMP_PHONE,0.6
+FLAG_WORK_PHONE,27.9
+FLAG_CONT_MOBILE,0.0
+FLAG_PHONE,2.3
+FLAG_EMAIL,0.9
+CNT_FAM_MEMBERS,4.0
+REGION_RATING_CLIENT,3.0999999999999996
+REGION_RATING_CLIENT_W_CITY,38.60000000000001
+HOUR_APPR_PROCESS_START,23.7
+REG_REGION_NOT_LIVE_REGION,0.6
+REG_REGION_NOT_WORK_REGION,1.1
+LIVE_REGION_NOT_WORK_REGION,0.5
+REG_CITY_NOT_LIVE_CITY,21.099999999999998
+REG_CITY_NOT_WORK_CITY,2.5000000000000004
+LIVE_CITY_NOT_WORK_CITY,1.2000000000000002
+EXT_SOURCE_1,401.99999999999994
+EXT_SOURCE_2,314.1
+EXT_SOURCE_3,308.1
+APARTMENTS_AVG,18.7
+BASEMENTAREA_AVG,15.4
+YEARS_BEGINEXPLUATATION_AVG,20.999999999999996
+ELEVATORS_AVG,7.8999999999999995
+ENTRANCES_AVG,11.9
+FLOORSMAX_AVG,11.899999999999999
+LANDAREA_AVG,18.0
+LIVINGAREA_AVG,17.300000000000004
+NONLIVINGAREA_AVG,16.4
+APARTMENTS_MODE,21.1
+BASEMENTAREA_MODE,15.2
+YEARS_BEGINEXPLUATATION_MODE,25.2
+ELEVATORS_MODE,4.5
+ENTRANCES_MODE,4.6000000000000005
+FLOORSMAX_MODE,6.1
+LANDAREA_MODE,17.599999999999998
+LIVINGAREA_MODE,21.4
+NONLIVINGAREA_MODE,17.4
+APARTMENTS_MEDI,12.5
+BASEMENTAREA_MEDI,11.099999999999998
+YEARS_BEGINEXPLUATATION_MEDI,17.499999999999996
+ELEVATORS_MEDI,2.1000000000000005
+ENTRANCES_MEDI,5.3
+FLOORSMAX_MEDI,4.3
+LANDAREA_MEDI,11.0
+LIVINGAREA_MEDI,12.099999999999998
+NONLIVINGAREA_MEDI,15.299999999999999
+TOTALAREA_MODE,31.199999999999996
+OBS_30_CNT_SOCIAL_CIRCLE,10.600000000000001
+DEF_30_CNT_SOCIAL_CIRCLE,27.599999999999998
+OBS_60_CNT_SOCIAL_CIRCLE,8.100000000000001
+DEF_60_CNT_SOCIAL_CIRCLE,25.600000000000005
+DAYS_LAST_PHONE_CHANGE,82.7
+FLAG_DOCUMENT_2,0.0
+FLAG_DOCUMENT_3,23.7
+FLAG_DOCUMENT_4,0.0
+FLAG_DOCUMENT_5,0.1
+FLAG_DOCUMENT_6,0.7
+FLAG_DOCUMENT_7,0.0
+FLAG_DOCUMENT_8,2.0
+FLAG_DOCUMENT_9,0.0
+FLAG_DOCUMENT_10,0.0
+FLAG_DOCUMENT_11,3.7
+FLAG_DOCUMENT_12,0.0
+FLAG_DOCUMENT_13,10.1
+FLAG_DOCUMENT_14,1.8000000000000003
+FLAG_DOCUMENT_15,0.6
+FLAG_DOCUMENT_16,14.0
+FLAG_DOCUMENT_17,0.0
+FLAG_DOCUMENT_18,15.4
+FLAG_DOCUMENT_19,0.0
+FLAG_DOCUMENT_20,0.0
+FLAG_DOCUMENT_21,0.0
+AMT_REQ_CREDIT_BUREAU_HOUR,0.0
+AMT_REQ_CREDIT_BUREAU_DAY,1.6
+AMT_REQ_CREDIT_BUREAU_WEEK,4.9
+AMT_REQ_CREDIT_BUREAU_MON,7.3999999999999995
+AMT_REQ_CREDIT_BUREAU_QRT,22.3
+AMT_REQ_CREDIT_BUREAU_YEAR,8.600000000000001
+CREDIT/INCOME,99.2
+GOODS/CREDIT,160.5
+BIRTH-EMPLOYED,100.5
+FAMMEMB/INCOME,32.9
+CLIENTREG/INCOME,24.7
+CITYREG/INCOME,39.199999999999996
+CODE_GENDER_F,51.199999999999996
+CODE_GENDER_M,34.6
+NAME_TYPE_SUITE_Children,0.7
+NAME_TYPE_SUITE_Family,0.8999999999999999
+NAME_TYPE_SUITE_Group of people,0.0
+NAME_TYPE_SUITE_Other_A,0.1
+NAME_TYPE_SUITE_Other_B,0.1
+"NAME_TYPE_SUITE_Spouse, partner",1.7000000000000002
+NAME_TYPE_SUITE_Unaccompanied,1.6000000000000003
+NAME_INCOME_TYPE_Businessman,0.0
+NAME_INCOME_TYPE_Commercial associate,2.5
+NAME_INCOME_TYPE_Pensioner,3.2
+NAME_INCOME_TYPE_State servant,9.6
+NAME_INCOME_TYPE_Student,0.0
+NAME_INCOME_TYPE_Unemployed,1.9
+NAME_INCOME_TYPE_Working,23.8
+NAME_EDUCATION_TYPE_Academic degree,3.5000000000000004
+NAME_EDUCATION_TYPE_Higher education,40.8
+NAME_EDUCATION_TYPE_Incomplete higher,0.8
+NAME_EDUCATION_TYPE_Lower secondary,0.8
+NAME_EDUCATION_TYPE_Secondary / secondary special,22.0
+NAME_FAMILY_STATUS_Civil marriage,3.7000000000000006
+NAME_FAMILY_STATUS_Married,46.9
+NAME_FAMILY_STATUS_Separated,1.3000000000000003
+NAME_FAMILY_STATUS_Single / not married,3.4999999999999996
+NAME_FAMILY_STATUS_Widow,2.1
+NAME_HOUSING_TYPE_Co-op apartment,0.0
+NAME_HOUSING_TYPE_House / apartment,3.9999999999999996
+NAME_HOUSING_TYPE_Municipal apartment,2.5000000000000004
+NAME_HOUSING_TYPE_Office apartment,2.0
+NAME_HOUSING_TYPE_Rented apartment,0.6
+NAME_HOUSING_TYPE_With parents,0.6
+OCCUPATION_TYPE_Accountants,4.8
+OCCUPATION_TYPE_Cleaning staff,1.2
+OCCUPATION_TYPE_Cooking staff,0.0
+OCCUPATION_TYPE_Core staff,19.700000000000003
+OCCUPATION_TYPE_Drivers,10.200000000000001
+OCCUPATION_TYPE_HR staff,0.0
+OCCUPATION_TYPE_High skill tech staff,5.0
+OCCUPATION_TYPE_IT staff,0.0
+OCCUPATION_TYPE_Laborers,6.200000000000001
+OCCUPATION_TYPE_Low-skill Laborers,0.8999999999999999
+OCCUPATION_TYPE_Managers,0.7999999999999999
+OCCUPATION_TYPE_Medicine staff,5.7
+OCCUPATION_TYPE_Not_Answered,2.4000000000000004
+OCCUPATION_TYPE_Private service staff,0.4
+OCCUPATION_TYPE_Realty agents,0.0
+OCCUPATION_TYPE_Sales staff,5.0
+OCCUPATION_TYPE_Secretaries,0.0
+OCCUPATION_TYPE_Security staff,0.30000000000000004
+OCCUPATION_TYPE_Unemployed,0.0
+OCCUPATION_TYPE_Waiters/barmen staff,0.1
+WEEKDAY_APPR_PROCESS_START_FRIDAY,1.7000000000000002
+WEEKDAY_APPR_PROCESS_START_MONDAY,3.8999999999999995
+WEEKDAY_APPR_PROCESS_START_SATURDAY,3.0999999999999996
+WEEKDAY_APPR_PROCESS_START_SUNDAY,1.7000000000000002
+WEEKDAY_APPR_PROCESS_START_THURSDAY,1.2
+WEEKDAY_APPR_PROCESS_START_TUESDAY,1.5
+WEEKDAY_APPR_PROCESS_START_WEDNESDAY,1.3
+ORGANIZATION_TYPE_Advertising,0.0
+ORGANIZATION_TYPE_Agriculture,0.0
+ORGANIZATION_TYPE_Bank,5.399999999999999
+ORGANIZATION_TYPE_Business Entity Type 1,0.4
+ORGANIZATION_TYPE_Business Entity Type 2,0.2
+ORGANIZATION_TYPE_Business Entity Type 3,8.999999999999998
+ORGANIZATION_TYPE_Cleaning,0.0
+ORGANIZATION_TYPE_Construction,12.2
+ORGANIZATION_TYPE_Culture,0.0
+ORGANIZATION_TYPE_Electricity,0.0
+ORGANIZATION_TYPE_Emergency,0.0
+ORGANIZATION_TYPE_Government,2.1
+ORGANIZATION_TYPE_Hotel,0.7
+ORGANIZATION_TYPE_Housing,0.2
+ORGANIZATION_TYPE_Industry: type 1,0.0
+ORGANIZATION_TYPE_Industry: type 10,0.0
+ORGANIZATION_TYPE_Industry: type 11,0.1
+ORGANIZATION_TYPE_Industry: type 12,0.30000000000000004
+ORGANIZATION_TYPE_Industry: type 13,0.0
+ORGANIZATION_TYPE_Industry: type 2,0.0
+ORGANIZATION_TYPE_Industry: type 3,0.0
+ORGANIZATION_TYPE_Industry: type 4,0.0
+ORGANIZATION_TYPE_Industry: type 5,0.30000000000000004
+ORGANIZATION_TYPE_Industry: type 6,0.0
+ORGANIZATION_TYPE_Industry: type 7,0.30000000000000004
+ORGANIZATION_TYPE_Industry: type 8,0.0
+ORGANIZATION_TYPE_Industry: type 9,12.600000000000001
+ORGANIZATION_TYPE_Insurance,0.0
+ORGANIZATION_TYPE_Kindergarten,4.1
+ORGANIZATION_TYPE_Legal Services,0.0
+ORGANIZATION_TYPE_Medicine,2.3000000000000003
+ORGANIZATION_TYPE_Military,12.999999999999998
+ORGANIZATION_TYPE_Mobile,0.0
+ORGANIZATION_TYPE_Other,0.5
+ORGANIZATION_TYPE_Police,3.6
+ORGANIZATION_TYPE_Postal,0.0
+ORGANIZATION_TYPE_Realtor,7.7
+ORGANIZATION_TYPE_Religion,0.0
+ORGANIZATION_TYPE_Restaurant,0.6000000000000001
+ORGANIZATION_TYPE_School,9.0
+ORGANIZATION_TYPE_Security,0.2
+ORGANIZATION_TYPE_Security Ministries,5.5
+ORGANIZATION_TYPE_Self-employed,15.899999999999999
+ORGANIZATION_TYPE_Services,0.0
+ORGANIZATION_TYPE_Telecom,0.0
+ORGANIZATION_TYPE_Trade: type 1,0.0
+ORGANIZATION_TYPE_Trade: type 2,1.0
+ORGANIZATION_TYPE_Trade: type 3,0.2
+ORGANIZATION_TYPE_Trade: type 4,0.1
+ORGANIZATION_TYPE_Trade: type 5,0.0
+ORGANIZATION_TYPE_Trade: type 6,0.30000000000000004
+ORGANIZATION_TYPE_Trade: type 7,1.2000000000000002
+ORGANIZATION_TYPE_Transport: type 1,0.1
+ORGANIZATION_TYPE_Transport: type 2,0.2
+ORGANIZATION_TYPE_Transport: type 3,9.9
+ORGANIZATION_TYPE_Transport: type 4,1.6999999999999997
+ORGANIZATION_TYPE_University,0.0
+ORGANIZATION_TYPE_XNA,0.0
+FONDKAPREMONT_MODE_not specified,0.7
+FONDKAPREMONT_MODE_org spec account,0.30000000000000004
+FONDKAPREMONT_MODE_reg oper account,1.2
+FONDKAPREMONT_MODE_reg oper spec account,1.2
+HOUSETYPE_MODE_block of flats,0.0
+HOUSETYPE_MODE_specific housing,0.30000000000000004
+HOUSETYPE_MODE_terraced house,0.0
+WALLSMATERIAL_MODE_Block,0.2
+WALLSMATERIAL_MODE_Mixed,0.1
+WALLSMATERIAL_MODE_Monolithic,0.2
+WALLSMATERIAL_MODE_Others,0.5
+WALLSMATERIAL_MODE_Panel,3.599999999999999
+"WALLSMATERIAL_MODE_Stone, brick",5.1000000000000005
+WALLSMATERIAL_MODE_Wooden,0.0
+EMERGENCYSTATE_MODE_No,0.0
+EMERGENCYSTATE_MODE_Yes,0.4
+OWN_CAR_AGE_CATEGORY_very-new,15.2
+OWN_CAR_AGE_CATEGORY_new,20.2
+OWN_CAR_AGE_CATEGORY_old,1.8000000000000003
+OWN_CAR_AGE_CATEGORY_very-old,1.6
+OWN_CAR_AGE_CATEGORY_antique,0.2
+OWN_CAR_AGE_CATEGORY_not-have,3.1
+bureau_DAYS_CREDIT_count,7.6000000000000005
+bureau_DAYS_CREDIT_mean,53.4
+bureau_DAYS_CREDIT_max,112.89999999999999
+bureau_DAYS_CREDIT_min,29.099999999999998
+bureau_DAYS_CREDIT_var,41.199999999999996
+bureau_DAYS_CREDIT_sum,31.9
+bureau_CREDIT_DAY_OVERDUE_mean,0.30000000000000004
+bureau_CREDIT_DAY_OVERDUE_max,1.5000000000000002
+bureau_CREDIT_DAY_OVERDUE_min,0.0
+bureau_DAYS_CREDIT_ENDDATE_mean,38.7
+bureau_DAYS_CREDIT_ENDDATE_max,104.99999999999999
+bureau_DAYS_CREDIT_ENDDATE_min,25.4
+bureau_DAYS_CREDIT_ENDDATE_var,53.5
+bureau_DAYS_CREDIT_ENDDATE_sum,44.699999999999996
+bureau_DAYS_ENDDATE_FACT_count,8.6
+bureau_DAYS_ENDDATE_FACT_mean,37.4
+bureau_DAYS_ENDDATE_FACT_max,86.10000000000001
+bureau_DAYS_ENDDATE_FACT_min,28.5
+bureau_DAYS_ENDDATE_FACT_var,47.800000000000004
+bureau_DAYS_ENDDATE_FACT_sum,15.9
+bureau_CNT_CREDIT_PROLONG_mean,1.9999999999999998
+bureau_CNT_CREDIT_PROLONG_max,3.3000000000000003
+bureau_CNT_CREDIT_PROLONG_min,0.0
+bureau_CNT_CREDIT_PROLONG_var,2.4000000000000004
+bureau_AMT_CREDIT_SUM_mean,57.99999999999999
+bureau_AMT_CREDIT_SUM_max,45.2
+bureau_AMT_CREDIT_SUM_min,58.80000000000001
+bureau_AMT_CREDIT_SUM_var,43.8
+bureau_AMT_CREDIT_SUM_sum,38.3
+bureau_AMT_CREDIT_SUM_DEBT_mean,80.2
+bureau_AMT_CREDIT_SUM_DEBT_max,34.6
+bureau_AMT_CREDIT_SUM_DEBT_min,22.200000000000003
+bureau_AMT_CREDIT_SUM_DEBT_var,55.699999999999996
+bureau_AMT_CREDIT_SUM_LIMIT_count,9.7
+bureau_AMT_CREDIT_SUM_LIMIT_mean,36.699999999999996
+bureau_AMT_CREDIT_SUM_LIMIT_max,24.099999999999994
+bureau_AMT_CREDIT_SUM_LIMIT_min,8.2
+bureau_AMT_CREDIT_SUM_LIMIT_var,38.800000000000004
+bureau_AMT_CREDIT_SUM_OVERDUE_mean,9.7
+bureau_AMT_CREDIT_SUM_OVERDUE_max,11.799999999999999
+bureau_AMT_CREDIT_SUM_OVERDUE_min,0.0
+bureau_AMT_CREDIT_SUM_OVERDUE_var,8.3
+bureau_DAYS_CREDIT_UPDATE_mean,33.2
+bureau_DAYS_CREDIT_UPDATE_max,41.900000000000006
+bureau_DAYS_CREDIT_UPDATE_min,19.3
+bureau_DAYS_CREDIT_UPDATE_var,40.0
+bureau_DAYS_CREDIT_UPDATE_sum,19.4
+bureau_CREDIT_ACTIVE_Active_count,44.9
+bureau_CREDIT_ACTIVE_Active_count_norm,28.699999999999996
+bureau_CREDIT_ACTIVE_Bad debt_count,0.0
+bureau_CREDIT_ACTIVE_Bad debt_count_norm,0.0
+bureau_CREDIT_ACTIVE_Sold_count,0.0
+bureau_CREDIT_ACTIVE_Sold_count_norm,12.200000000000001
+bureau_CREDIT_TYPE_Another type of loan_count,0.0
+bureau_CREDIT_TYPE_Another type of loan_count_norm,2.6
+bureau_CREDIT_TYPE_Car loan_count,4.3
+bureau_CREDIT_TYPE_Car loan_count_norm,22.9
+bureau_CREDIT_TYPE_Cash loan (non-earmarked)_count,0.0
+bureau_CREDIT_TYPE_Cash loan (non-earmarked)_count_norm,0.0
+bureau_CREDIT_TYPE_Consumer credit_count,7.500000000000002
+bureau_CREDIT_TYPE_Consumer credit_count_norm,14.5
+bureau_CREDIT_TYPE_Credit card_count,11.2
+bureau_CREDIT_TYPE_Credit card_count_norm,11.6
+bureau_CREDIT_TYPE_Interbank credit_count,0.0
+bureau_CREDIT_TYPE_Loan for business development_count,0.1
+bureau_CREDIT_TYPE_Loan for business development_count_norm,0.2
+bureau_CREDIT_TYPE_Loan for purchase of shares (margin lending)_count,0.0
+bureau_CREDIT_TYPE_Loan for purchase of shares (margin lending)_count_norm,0.0
+bureau_CREDIT_TYPE_Loan for the purchase of equipment_count,0.0
+bureau_CREDIT_TYPE_Loan for the purchase of equipment_count_norm,0.0
+bureau_CREDIT_TYPE_Loan for working capital replenishment_count,0.0
+bureau_CREDIT_TYPE_Loan for working capital replenishment_count_norm,0.3
+bureau_CREDIT_TYPE_Microloan_count,9.299999999999999
+bureau_CREDIT_TYPE_Microloan_count_norm,22.200000000000003
+bureau_CREDIT_TYPE_Mobile operator loan_count,0.0
+bureau_CREDIT_TYPE_Mortgage_count,5.300000000000001
+bureau_CREDIT_TYPE_Mortgage_count_norm,34.8
+bureau_CREDIT_TYPE_Real estate loan_count,0.0
+bureau_CREDIT_TYPE_Real estate loan_count_norm,0.0
+bureau_CREDIT_TYPE_Unknown type of loan_count,0.0
+bureau_CREDIT_TYPE_Unknown type of loan_count_norm,0.0
+previous_AMT_ANNUITY_count,2.8000000000000003
+previous_AMT_ANNUITY_mean,59.900000000000006
+previous_AMT_ANNUITY_max,32.400000000000006
+previous_AMT_ANNUITY_min,13.6
+previous_AMT_ANNUITY_var,34.599999999999994
+previous_AMT_ANNUITY_sum,26.8
+previous_AMT_APPLICATION_mean,22.0
+previous_AMT_APPLICATION_max,23.4
+previous_AMT_APPLICATION_min,13.699999999999998
+previous_AMT_APPLICATION_var,27.300000000000004
+previous_AMT_APPLICATION_sum,16.700000000000003
+previous_AMT_DOWN_PAYMENT_count,3.1
+previous_AMT_DOWN_PAYMENT_mean,26.9
+previous_AMT_DOWN_PAYMENT_max,27.8
+previous_AMT_DOWN_PAYMENT_min,12.1
+previous_AMT_DOWN_PAYMENT_var,42.7
+previous_AMT_DOWN_PAYMENT_sum,46.1
+previous_HOUR_APPR_PROCESS_START_mean,40.300000000000004
+previous_HOUR_APPR_PROCESS_START_max,14.4
+previous_HOUR_APPR_PROCESS_START_min,11.4
+previous_HOUR_APPR_PROCESS_START_var,46.10000000000001
+previous_RATE_DOWN_PAYMENT_mean,22.300000000000004
+previous_RATE_DOWN_PAYMENT_max,25.3
+previous_RATE_DOWN_PAYMENT_min,11.999999999999998
+previous_RATE_DOWN_PAYMENT_var,28.599999999999998
+previous_RATE_DOWN_PAYMENT_sum,18.3
+previous_DAYS_DECISION_mean,25.9
+previous_DAYS_DECISION_max,41.1
+previous_DAYS_DECISION_min,23.9
+previous_DAYS_DECISION_var,31.4
+previous_DAYS_DECISION_sum,23.0
+previous_SELLERPLACE_AREA_mean,39.4
+previous_SELLERPLACE_AREA_max,37.1
+previous_SELLERPLACE_AREA_var,30.599999999999998
+previous_CNT_PAYMENT_count,2.5999999999999996
+previous_CNT_PAYMENT_mean,79.19999999999999
+previous_CNT_PAYMENT_max,7.500000000000001
+previous_CNT_PAYMENT_min,5.6
+previous_CNT_PAYMENT_var,82.30000000000001
+previous_CNT_PAYMENT_sum,17.0
+previous_DAYS_FIRST_DRAWING_count,1.9000000000000004
+previous_DAYS_FIRST_DRAWING_mean,13.299999999999999
+previous_DAYS_FIRST_DRAWING_max,0.1
+previous_DAYS_FIRST_DRAWING_min,27.0
+previous_DAYS_FIRST_DRAWING_var,12.0
+previous_DAYS_FIRST_DRAWING_sum,22.7
+previous_DAYS_FIRST_DUE_mean,31.500000000000004
+previous_DAYS_FIRST_DUE_max,11.100000000000001
+previous_DAYS_FIRST_DUE_min,17.5
+previous_DAYS_LAST_DUE_1ST_VERSION_mean,37.2
+previous_DAYS_LAST_DUE_1ST_VERSION_max,92.5
+previous_DAYS_LAST_DUE_1ST_VERSION_min,21.9
+previous_DAYS_LAST_DUE_mean,17.5
+previous_DAYS_LAST_DUE_max,6.999999999999999
+previous_DAYS_LAST_DUE_min,15.100000000000001
+previous_DAYS_LAST_DUE_var,33.2
+previous_DAYS_LAST_DUE_sum,29.099999999999998
+previous_NFLAG_INSURED_ON_APPROVAL_mean,9.299999999999999
+previous_NFLAG_INSURED_ON_APPROVAL_max,0.0
+previous_NFLAG_INSURED_ON_APPROVAL_min,0.0
+previous_NFLAG_INSURED_ON_APPROVAL_var,9.1
+previous_NFLAG_INSURED_ON_APPROVAL_sum,3.8000000000000003
+previous_app/credit_mean,56.6
+previous_app/credit_max,29.200000000000003
+previous_app/credit_min,54.50000000000001
+previous_app/credit_var,39.29999999999999
+previous_termination-last_due_mean,33.9
+previous_termination-last_due_max,15.2
+previous_termination-last_due_min,51.3
+previous_termination-last_due_var,42.199999999999996
+previous_NAME_CONTRACT_TYPE_Cash loans_count,3.3000000000000007
+previous_NAME_CONTRACT_TYPE_Cash loans_count_norm,5.3999999999999995
+previous_NAME_CONTRACT_TYPE_Consumer loans_count,3.5000000000000004
+previous_NAME_CONTRACT_TYPE_Consumer loans_count_norm,13.399999999999999
+previous_NAME_CONTRACT_TYPE_Revolving loans_count,0.8999999999999999
+previous_NAME_CONTRACT_TYPE_Revolving loans_count_norm,5.1
+previous_NAME_CONTRACT_TYPE_XNA_count,0.0
+previous_NAME_CONTRACT_TYPE_XNA_count_norm,0.0
+previous_WEEKDAY_APPR_PROCESS_START_FRIDAY_count,2.3000000000000003
+previous_WEEKDAY_APPR_PROCESS_START_FRIDAY_count_norm,9.6
+previous_WEEKDAY_APPR_PROCESS_START_MONDAY_count,3.499999999999999
+previous_WEEKDAY_APPR_PROCESS_START_MONDAY_count_norm,14.1
+previous_WEEKDAY_APPR_PROCESS_START_SATURDAY_count,2.5
+previous_WEEKDAY_APPR_PROCESS_START_SATURDAY_count_norm,16.8
+previous_WEEKDAY_APPR_PROCESS_START_SUNDAY_count,3.0
+previous_WEEKDAY_APPR_PROCESS_START_SUNDAY_count_norm,13.299999999999999
+previous_WEEKDAY_APPR_PROCESS_START_THURSDAY_count,2.6999999999999997
+previous_WEEKDAY_APPR_PROCESS_START_THURSDAY_count_norm,19.3
+previous_WEEKDAY_APPR_PROCESS_START_TUESDAY_count,2.0000000000000004
+previous_WEEKDAY_APPR_PROCESS_START_TUESDAY_count_norm,14.2
+previous_WEEKDAY_APPR_PROCESS_START_WEDNESDAY_count,5.8
+previous_WEEKDAY_APPR_PROCESS_START_WEDNESDAY_count_norm,12.5
+previous_FLAG_LAST_APPL_PER_CONTRACT_N_count,0.1
+previous_FLAG_LAST_APPL_PER_CONTRACT_N_count_norm,0.6000000000000001
+previous_NAME_CASH_LOAN_PURPOSE_Building a house or an annex_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Building a house or an annex_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Business development_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Business development_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a garage_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a garage_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a holiday home / land_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a holiday home / land_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a home_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a home_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a new car_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Buying a new car_count_norm,0.2
+previous_NAME_CASH_LOAN_PURPOSE_Buying a used car_count,0.1
+previous_NAME_CASH_LOAN_PURPOSE_Buying a used car_count_norm,0.1
+previous_NAME_CASH_LOAN_PURPOSE_Car repairs_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Car repairs_count_norm,0.3
+previous_NAME_CASH_LOAN_PURPOSE_Education_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Education_count_norm,0.2
+previous_NAME_CASH_LOAN_PURPOSE_Everyday expenses_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Everyday expenses_count_norm,0.8999999999999999
+previous_NAME_CASH_LOAN_PURPOSE_Furniture_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Furniture_count_norm,1.2
+previous_NAME_CASH_LOAN_PURPOSE_Gasification / water supply_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Gasification / water supply_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Hobby_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Hobby_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Journey_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Journey_count_norm,0.2
+previous_NAME_CASH_LOAN_PURPOSE_Medicine_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Medicine_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Money for a third person_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Money for a third person_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Other_count,1.3
+previous_NAME_CASH_LOAN_PURPOSE_Other_count_norm,1.6
+previous_NAME_CASH_LOAN_PURPOSE_Payments on other loans_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Payments on other loans_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Purchase of electronic equipment_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Purchase of electronic equipment_count_norm,0.1
+previous_NAME_CASH_LOAN_PURPOSE_Refusal to name the goal_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Refusal to name the goal_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Repairs_count,0.4
+previous_NAME_CASH_LOAN_PURPOSE_Repairs_count_norm,2.1
+previous_NAME_CASH_LOAN_PURPOSE_Urgent needs_count,0.0
+previous_NAME_CASH_LOAN_PURPOSE_Urgent needs_count_norm,1.3
+previous_NAME_CASH_LOAN_PURPOSE_Wedding / gift / holiday_count,0.1
+previous_NAME_CASH_LOAN_PURPOSE_Wedding / gift / holiday_count_norm,0.0
+previous_NAME_CASH_LOAN_PURPOSE_XAP_count,2.3
+previous_NAME_CASH_LOAN_PURPOSE_XNA_count_norm,10.899999999999999
+previous_NAME_CONTRACT_STATUS_Approved_count_norm,17.6
+previous_NAME_CONTRACT_STATUS_Canceled_count,1.4000000000000004
+previous_NAME_CONTRACT_STATUS_Canceled_count_norm,10.5
+previous_NAME_CONTRACT_STATUS_Refused_count,1.7000000000000002
+previous_NAME_CONTRACT_STATUS_Refused_count_norm,41.9
+previous_NAME_CONTRACT_STATUS_Unused offer_count,1.5000000000000002
+previous_NAME_CONTRACT_STATUS_Unused offer_count_norm,4.1000000000000005
+previous_NAME_PAYMENT_TYPE_Cash through the bank_count,2.4000000000000004
+previous_NAME_PAYMENT_TYPE_Cash through the bank_count_norm,17.0
+previous_NAME_PAYMENT_TYPE_Cashless from the account of the employer_count,0.0
+previous_NAME_PAYMENT_TYPE_Cashless from the account of the employer_count_norm,0.0
+previous_NAME_PAYMENT_TYPE_Non-cash from your account_count,0.30000000000000004
+previous_NAME_PAYMENT_TYPE_Non-cash from your account_count_norm,1.6
+previous_NAME_PAYMENT_TYPE_XNA_count,2.2
+previous_CODE_REJECT_REASON_HC_count,1.5000000000000002
+previous_CODE_REJECT_REASON_HC_count_norm,13.100000000000001
+previous_CODE_REJECT_REASON_LIMIT_count,0.5
+previous_CODE_REJECT_REASON_LIMIT_count_norm,6.100000000000001
+previous_CODE_REJECT_REASON_SCO_count,1.8000000000000003
+previous_CODE_REJECT_REASON_SCO_count_norm,10.7
+previous_CODE_REJECT_REASON_SCOFR_count,0.30000000000000004
+previous_CODE_REJECT_REASON_SCOFR_count_norm,3.8999999999999995
+previous_CODE_REJECT_REASON_SYSTEM_count,0.0
+previous_CODE_REJECT_REASON_SYSTEM_count_norm,0.0
+previous_CODE_REJECT_REASON_VERIF_count,0.3
+previous_CODE_REJECT_REASON_VERIF_count_norm,0.7
+previous_CODE_REJECT_REASON_XAP_count_norm,19.300000000000004
+previous_CODE_REJECT_REASON_XNA_count,0.0
+previous_CODE_REJECT_REASON_XNA_count_norm,1.7000000000000002
+previous_NAME_TYPE_SUITE_Children_count,1.0999999999999999
+previous_NAME_TYPE_SUITE_Children_count_norm,7.9
+previous_NAME_TYPE_SUITE_Family_count,3.8000000000000003
+previous_NAME_TYPE_SUITE_Family_count_norm,10.2
+previous_NAME_TYPE_SUITE_Group of people_count,1.0999999999999999
+previous_NAME_TYPE_SUITE_Group of people_count_norm,0.8
+previous_NAME_TYPE_SUITE_Other_A_count,0.1
+previous_NAME_TYPE_SUITE_Other_A_count_norm,3.2
+previous_NAME_TYPE_SUITE_Other_B_count,1.7000000000000004
+previous_NAME_TYPE_SUITE_Other_B_count_norm,2.8999999999999995
+"previous_NAME_TYPE_SUITE_Spouse, partner_count",2.5000000000000004
+"previous_NAME_TYPE_SUITE_Spouse, partner_count_norm",6.5
+previous_NAME_TYPE_SUITE_Unaccompanied_count,2.5000000000000004
+previous_NAME_TYPE_SUITE_Unaccompanied_count_norm,27.0
+previous_NAME_CLIENT_TYPE_New_count,2.2
+previous_NAME_CLIENT_TYPE_New_count_norm,27.200000000000003
+previous_NAME_CLIENT_TYPE_Refreshed_count,2.5
+previous_NAME_CLIENT_TYPE_Refreshed_count_norm,12.799999999999999
+previous_NAME_CLIENT_TYPE_Repeater_count_norm,12.1
+previous_NAME_CLIENT_TYPE_XNA_count,0.1
+previous_NAME_CLIENT_TYPE_XNA_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Additional Service_count,0.0
+previous_NAME_GOODS_CATEGORY_Additional Service_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Animals_count,0.0
+previous_NAME_GOODS_CATEGORY_Audio/Video_count,0.7
+previous_NAME_GOODS_CATEGORY_Audio/Video_count_norm,9.0
+previous_NAME_GOODS_CATEGORY_Auto Accessories_count,0.1
+previous_NAME_GOODS_CATEGORY_Auto Accessories_count_norm,1.9000000000000004
+previous_NAME_GOODS_CATEGORY_Clothing and Accessories_count,0.6
+previous_NAME_GOODS_CATEGORY_Clothing and Accessories_count_norm,7.4
+previous_NAME_GOODS_CATEGORY_Computers_count,2.4
+previous_NAME_GOODS_CATEGORY_Computers_count_norm,9.200000000000001
+previous_NAME_GOODS_CATEGORY_Construction Materials_count,0.5
+previous_NAME_GOODS_CATEGORY_Construction Materials_count_norm,3.6999999999999993
+previous_NAME_GOODS_CATEGORY_Consumer Electronics_count,1.7
+previous_NAME_GOODS_CATEGORY_Consumer Electronics_count_norm,8.0
+previous_NAME_GOODS_CATEGORY_Direct Sales_count,0.0
+previous_NAME_GOODS_CATEGORY_Direct Sales_count_norm,4.9
+previous_NAME_GOODS_CATEGORY_Education_count,0.0
+previous_NAME_GOODS_CATEGORY_Education_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Fitness_count,0.0
+previous_NAME_GOODS_CATEGORY_Fitness_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Furniture_count,1.7000000000000002
+previous_NAME_GOODS_CATEGORY_Furniture_count_norm,10.4
+previous_NAME_GOODS_CATEGORY_Gardening_count,0.30000000000000004
+previous_NAME_GOODS_CATEGORY_Gardening_count_norm,2.3000000000000003
+previous_NAME_GOODS_CATEGORY_Homewares_count,0.0
+previous_NAME_GOODS_CATEGORY_Homewares_count_norm,0.6
+previous_NAME_GOODS_CATEGORY_House Construction_count,0.0
+previous_NAME_GOODS_CATEGORY_Insurance_count,0.0
+previous_NAME_GOODS_CATEGORY_Insurance_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Jewelry_count,0.4
+previous_NAME_GOODS_CATEGORY_Jewelry_count_norm,2.4000000000000004
+previous_NAME_GOODS_CATEGORY_Medical Supplies_count,0.0
+previous_NAME_GOODS_CATEGORY_Medical Supplies_count_norm,0.7999999999999999
+previous_NAME_GOODS_CATEGORY_Medicine_count,0.1
+previous_NAME_GOODS_CATEGORY_Medicine_count_norm,2.1999999999999997
+previous_NAME_GOODS_CATEGORY_Mobile_count,1.0999999999999999
+previous_NAME_GOODS_CATEGORY_Mobile_count_norm,13.8
+previous_NAME_GOODS_CATEGORY_Office Appliances_count,0.0
+previous_NAME_GOODS_CATEGORY_Office Appliances_count_norm,0.0
+previous_NAME_GOODS_CATEGORY_Other_count,0.1
+previous_NAME_GOODS_CATEGORY_Other_count_norm,1.3000000000000003
+previous_NAME_GOODS_CATEGORY_Photo / Cinema Equipment_count,0.30000000000000004
+previous_NAME_GOODS_CATEGORY_Photo / Cinema Equipment_count_norm,11.1
+previous_NAME_GOODS_CATEGORY_Sport and Leisure_count,1.2999999999999998
+previous_NAME_GOODS_CATEGORY_Sport and Leisure_count_norm,3.3999999999999995
+previous_NAME_GOODS_CATEGORY_Tourism_count,0.2
+previous_NAME_GOODS_CATEGORY_Tourism_count_norm,1.0999999999999999
+previous_NAME_GOODS_CATEGORY_Vehicles_count,0.1
+previous_NAME_GOODS_CATEGORY_Vehicles_count_norm,0.2
+previous_NAME_GOODS_CATEGORY_Weapon_count,0.0
+previous_NAME_GOODS_CATEGORY_Weapon_count_norm,0.0
+previous_NAME_PORTFOLIO_Cards_count,0.2
+previous_NAME_PORTFOLIO_Cards_count_norm,5.0
+previous_NAME_PORTFOLIO_Cars_count,0.0
+previous_NAME_PORTFOLIO_Cars_count_norm,0.0
+previous_NAME_PORTFOLIO_Cash_count,2.9
+previous_NAME_PORTFOLIO_Cash_count_norm,6.3
+previous_NAME_PORTFOLIO_XNA_count,1.4000000000000001
+previous_NAME_PORTFOLIO_XNA_count_norm,5.999999999999999
+previous_NAME_PRODUCT_TYPE_XNA_count_norm,9.1
+previous_NAME_PRODUCT_TYPE_walk-in_count,4.3
+previous_NAME_PRODUCT_TYPE_walk-in_count_norm,18.2
+previous_NAME_PRODUCT_TYPE_x-sell_count,4.4
+previous_NAME_PRODUCT_TYPE_x-sell_count_norm,14.299999999999999
+previous_CHANNEL_TYPE_AP+ (Cash loan)_count,1.1
+previous_CHANNEL_TYPE_AP+ (Cash loan)_count_norm,14.6
+previous_CHANNEL_TYPE_Channel of corporate sales_count,2.1
+previous_CHANNEL_TYPE_Channel of corporate sales_count_norm,10.999999999999998
+previous_CHANNEL_TYPE_Contact center_count,1.2000000000000002
+previous_CHANNEL_TYPE_Contact center_count_norm,11.8
+previous_CHANNEL_TYPE_Country-wide_count,4.8999999999999995
+previous_CHANNEL_TYPE_Country-wide_count_norm,11.1
+previous_CHANNEL_TYPE_Credit and cash offices_count,5.9
+previous_CHANNEL_TYPE_Credit and cash offices_count_norm,12.799999999999999
+previous_CHANNEL_TYPE_Regional / Local_count,1.5
+previous_CHANNEL_TYPE_Regional / Local_count_norm,6.599999999999999
+previous_CHANNEL_TYPE_Stone_count,2.2
+previous_CHANNEL_TYPE_Stone_count_norm,11.9
+previous_NAME_SELLER_INDUSTRY_Auto technology_count,0.0
+previous_NAME_SELLER_INDUSTRY_Auto technology_count_norm,1.7
+previous_NAME_SELLER_INDUSTRY_Clothing_count,1.5
+previous_NAME_SELLER_INDUSTRY_Clothing_count_norm,2.8000000000000003
+previous_NAME_SELLER_INDUSTRY_Connectivity_count,7.0
+previous_NAME_SELLER_INDUSTRY_Connectivity_count_norm,9.7
+previous_NAME_SELLER_INDUSTRY_Construction_count,0.7
+previous_NAME_SELLER_INDUSTRY_Construction_count_norm,5.499999999999999
+previous_NAME_SELLER_INDUSTRY_Consumer electronics_count,2.9
+previous_NAME_SELLER_INDUSTRY_Consumer electronics_count_norm,9.3
+previous_NAME_SELLER_INDUSTRY_Furniture_count,0.8999999999999999
+previous_NAME_SELLER_INDUSTRY_Furniture_count_norm,12.8
+previous_NAME_SELLER_INDUSTRY_Industry_count,1.0999999999999999
+previous_NAME_SELLER_INDUSTRY_Industry_count_norm,3.7999999999999994
+previous_NAME_SELLER_INDUSTRY_Jewelry_count,0.1
+previous_NAME_SELLER_INDUSTRY_Jewelry_count_norm,0.7
+previous_NAME_SELLER_INDUSTRY_MLM partners_count,0.0
+previous_NAME_SELLER_INDUSTRY_MLM partners_count_norm,0.0
+previous_NAME_SELLER_INDUSTRY_Tourism_count,0.0
+previous_NAME_SELLER_INDUSTRY_Tourism_count_norm,0.0
+previous_NAME_SELLER_INDUSTRY_XNA_count_norm,6.199999999999999
+previous_NAME_YIELD_GROUP_XNA_count,1.9000000000000004
+previous_NAME_YIELD_GROUP_XNA_count_norm,7.500000000000002
+previous_NAME_YIELD_GROUP_high_count,5.699999999999999
+previous_NAME_YIELD_GROUP_high_count_norm,40.7
+previous_NAME_YIELD_GROUP_low_action_count,2.3000000000000003
+previous_NAME_YIELD_GROUP_low_action_count_norm,43.6
+previous_NAME_YIELD_GROUP_low_normal_count,2.3
+previous_NAME_YIELD_GROUP_low_normal_count_norm,19.599999999999998
+previous_NAME_YIELD_GROUP_middle_count,1.7000000000000004
+previous_NAME_YIELD_GROUP_middle_count_norm,11.7
+previous_PRODUCT_COMBINATION_Card Street_count,0.5
+previous_PRODUCT_COMBINATION_Card Street_count_norm,7.499999999999999
+previous_PRODUCT_COMBINATION_Card X-Sell_count,1.1
+previous_PRODUCT_COMBINATION_Card X-Sell_count_norm,3.5999999999999996
+previous_PRODUCT_COMBINATION_Cash_count,0.7
+previous_PRODUCT_COMBINATION_Cash_count_norm,6.1
+previous_PRODUCT_COMBINATION_Cash Street: high_count,1.4000000000000004
+previous_PRODUCT_COMBINATION_Cash Street: high_count_norm,6.3
+previous_PRODUCT_COMBINATION_Cash Street: low_count,0.6
+previous_PRODUCT_COMBINATION_Cash Street: low_count_norm,20.999999999999996
+previous_PRODUCT_COMBINATION_Cash Street: middle_count,0.4
+previous_PRODUCT_COMBINATION_Cash Street: middle_count_norm,3.5999999999999996
+previous_PRODUCT_COMBINATION_Cash X-Sell: high_count,0.8999999999999999
+previous_PRODUCT_COMBINATION_Cash X-Sell: high_count_norm,16.8
+previous_PRODUCT_COMBINATION_Cash X-Sell: low_count,4.199999999999999
+previous_PRODUCT_COMBINATION_Cash X-Sell: low_count_norm,35.3
+previous_PRODUCT_COMBINATION_Cash X-Sell: middle_count,2.1
+previous_PRODUCT_COMBINATION_Cash X-Sell: middle_count_norm,9.700000000000001
+previous_PRODUCT_COMBINATION_POS household with interest_count,4.199999999999999
+previous_PRODUCT_COMBINATION_POS household with interest_count_norm,8.5
+previous_PRODUCT_COMBINATION_POS household without interest_count,0.8
+previous_PRODUCT_COMBINATION_POS household without interest_count_norm,7.6000000000000005
+previous_PRODUCT_COMBINATION_POS industry with interest_count,1.5999999999999999
+previous_PRODUCT_COMBINATION_POS industry with interest_count_norm,18.8
+previous_PRODUCT_COMBINATION_POS industry without interest_count,1.2
+previous_PRODUCT_COMBINATION_POS industry without interest_count_norm,5.599999999999999
+previous_PRODUCT_COMBINATION_POS mobile with interest_count,2.1
+previous_PRODUCT_COMBINATION_POS mobile with interest_count_norm,5.6
+previous_PRODUCT_COMBINATION_POS mobile without interest_count,0.2
+previous_PRODUCT_COMBINATION_POS mobile without interest_count_norm,5.1000000000000005
+previous_PRODUCT_COMBINATION_POS other with interest_count,1.2
+previous_PRODUCT_COMBINATION_POS other with interest_count_norm,3.4000000000000004
+previous_PRODUCT_COMBINATION_POS others without interest_count,0.30000000000000004
+previous_PRODUCT_COMBINATION_POS others without interest_count_norm,0.9999999999999999
+pos_cash_MONTHS_BALANCE_count,29.700000000000003
+pos_cash_MONTHS_BALANCE_mean,34.6
+pos_cash_MONTHS_BALANCE_max,43.099999999999994
+pos_cash_MONTHS_BALANCE_min,25.3
+pos_cash_MONTHS_BALANCE_var,67.2
+pos_cash_MONTHS_BALANCE_sum,40.00000000000001
+pos_cash_CNT_INSTALMENT_mean,41.699999999999996
+pos_cash_CNT_INSTALMENT_max,33.3
+pos_cash_CNT_INSTALMENT_min,11.3
+pos_cash_CNT_INSTALMENT_var,39.7
+pos_cash_CNT_INSTALMENT_sum,24.099999999999998
+pos_cash_CNT_INSTALMENT_FUTURE_min,7.600000000000001
+pos_cash_SK_DPD_mean,8.500000000000002
+pos_cash_SK_DPD_max,10.0
+pos_cash_SK_DPD_min,0.3
+pos_cash_SK_DPD_var,5.8999999999999995
+pos_cash_SK_DPD_DEF_mean,32.9
+pos_cash_SK_DPD_DEF_min,0.0
+pos_cash_NAME_CONTRACT_STATUS_Active_count_norm,34.1
+pos_cash_NAME_CONTRACT_STATUS_Amortized debt_count,0.0
+pos_cash_NAME_CONTRACT_STATUS_Approved_count,0.2
+pos_cash_NAME_CONTRACT_STATUS_Approved_count_norm,0.7999999999999999
+pos_cash_NAME_CONTRACT_STATUS_Canceled_count,0.0
+pos_cash_NAME_CONTRACT_STATUS_Canceled_count_norm,0.0
+pos_cash_NAME_CONTRACT_STATUS_Completed_count,3.3000000000000003
+pos_cash_NAME_CONTRACT_STATUS_Completed_count_norm,21.399999999999995
+pos_cash_NAME_CONTRACT_STATUS_Demand_count,0.30000000000000004
+pos_cash_NAME_CONTRACT_STATUS_Demand_count_norm,0.0
+pos_cash_NAME_CONTRACT_STATUS_Returned to the store_count,0.8
+pos_cash_NAME_CONTRACT_STATUS_Returned to the store_count_norm,4.8
+pos_cash_NAME_CONTRACT_STATUS_Signed_count,3.0
+pos_cash_NAME_CONTRACT_STATUS_Signed_count_norm,13.2
+pos_cash_NAME_CONTRACT_STATUS_XNA_count,0.0
+installments_NUM_INSTALMENT_VERSION_count,23.599999999999998
+installments_NUM_INSTALMENT_VERSION_mean,33.89999999999999
+installments_NUM_INSTALMENT_VERSION_max,6.5
+installments_NUM_INSTALMENT_VERSION_min,0.1
+installments_NUM_INSTALMENT_VERSION_var,35.6
+installments_NUM_INSTALMENT_VERSION_sum,38.699999999999996
+installments_NUM_INSTALMENT_NUMBER_mean,30.0
+installments_NUM_INSTALMENT_NUMBER_max,17.900000000000002
+installments_NUM_INSTALMENT_NUMBER_min,0.30000000000000004
+installments_NUM_INSTALMENT_NUMBER_var,29.100000000000005
+installments_NUM_INSTALMENT_NUMBER_sum,28.1
+installments_AMT_INSTALMENT_mean,38.800000000000004
+installments_AMT_INSTALMENT_max,50.9
+installments_AMT_INSTALMENT_min,91.5
+installments_AMT_INSTALMENT_var,31.2
+installments_AMT_INSTALMENT_sum,76.6
+installments_AMT_PAYMENT-INSTALLMENT_mean,89.10000000000001
+installments_AMT_PAYMENT-INSTALLMENT_max,14.699999999999998
+installments_AMT_PAYMENT-INSTALLMENT_min,28.5
+installments_AMT_PAYMENT-INSTALLMENT_var,15.700000000000001
+installments_AMT_PAYMENT-INSTALLMENT_sum,30.700000000000003
+installments_DAYS_PAYMENT-INSTALLMENT_mean,45.800000000000004
+installments_DAYS_PAYMENT-INSTALLMENT_max,106.0
+installments_DAYS_PAYMENT-INSTALLMENT_min,36.99999999999999
+installments_DAYS_PAYMENT-INSTALLMENT_var,60.1
+installments_DAYS_PAYMENT-INSTALLMENT_sum,75.89999999999999
